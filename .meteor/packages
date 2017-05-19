@@ -21,5 +21,5 @@ twbs:bootstrap
 standard-minifier-css@1.2.0
 standard-minifier-js@1.2.0
 shell-server
-emojione:emojione
+emojione:emojione@2.2.6
 accounts-ui
